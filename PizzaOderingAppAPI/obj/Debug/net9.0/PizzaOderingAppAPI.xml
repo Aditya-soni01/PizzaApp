@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PizzaOderingAppAPI</name>
+    </assembly>
+    <members>
+        <member name="M:PizzaOderingAppAPI.Controllers.OrderController.CreateOrder(PizzaOderingAppAPI.Models.Order)">
+            <summary>
+            Creates a new order
+            </summary>
+            <param name="order">Order details</param>
+            <returns>The created order</returns>
+            <response code="201">Returns the newly created order</response>
+            <response code="400">If the order is invalid</response>
+        </member>
+        <member name="T:PizzaOderingAppAPI.Migrations.InitialCreate">
+            <inheritdoc />
+        </member>
+        <member name="M:PizzaOderingAppAPI.Migrations.InitialCreate.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:PizzaOderingAppAPI.Migrations.InitialCreate.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:PizzaOderingAppAPI.Migrations.InitialCreate.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

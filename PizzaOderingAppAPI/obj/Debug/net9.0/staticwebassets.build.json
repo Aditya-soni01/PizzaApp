@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "yKdR+Z6x0KItaDovqUldqjjDbdcsENf2Z/t96Gs8IkY=",
+  "Source": "PizzaOderingAppAPI",
+  "BasePath": "_content/PizzaOderingAppAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\PizzaOderingAppAPI.props" />
+</Project>
